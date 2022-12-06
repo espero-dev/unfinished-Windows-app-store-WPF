@@ -1,2 +1,7 @@
-# unfinished-Windows-app-store-WPF
-made this thinking i could finish in time for chrismas but i dont think i can so here have this part but that other one i made not in WPF is better so im staying with that one
+i give permission to people to edit it finish it and shit
+
+just remember im 14 and no i did not put the app downloding code in it i wont people can try and figure it ot
+
+merry fucking chrismas 
+
+i will not answer to bugs or reports im not doing anything with this
